@@ -2,8 +2,13 @@
 content_type: resource
 description: Supporting files for a problem set on methods for implementing and exploiting
   generic sequence operations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-945-adventures-in-advanced-symbolic-programming-spring-2009/328b2b94270d744d600bca5e1de2625f_assn02.zip
+file: /media/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/328b2b94270d744d600bca5e1de2625f_assn02.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: 'Problem Set 2: Supporting Files'
 uid: 328b2b94-270d-744d-600b-ca5e1de2625f

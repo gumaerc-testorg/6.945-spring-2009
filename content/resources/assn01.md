@@ -2,8 +2,13 @@
 content_type: resource
 description: Supporting files for a problem set on a regular expressions, the Scheme
   environment, the grep utility, nesting, optimization, and back-references.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-945-adventures-in-advanced-symbolic-programming-spring-2009/460c10479d91c6747b790cb3927a68d4_assn01.zip
+file: /media/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/460c10479d91c6747b790cb3927a68d4_assn01.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: 'Problem Set 1: Supporting Files'
 uid: 460c1047-9d91-c674-7b79-0cb3927a68d4
