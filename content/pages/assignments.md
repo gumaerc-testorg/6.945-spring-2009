@@ -40,7 +40,7 @@ Regular expressions
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn01))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn01.txt))
+([TXT]({{< baseurl >}}/resources/assn01-1))
 
 
 {{< tdclose >}}
@@ -61,12 +61,12 @@ Generic operations
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn02))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn02.txt))
+([TXT]({{< baseurl >}}/resources/assn02))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/assn02)) (The ZIP file contains 3 .scm files.)
+([ZIP]({{< baseurl >}}/resources/assn02-1)) (The ZIP file contains 3 .scm files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +82,7 @@ Eval/apply interpreters
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn03))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn03.txt))
+([TXT]({{< baseurl >}}/resources/assn03-1))
 
 
 {{< tdclose >}}
@@ -103,7 +103,7 @@ Compiling to combinators and AMB
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn04))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn04.txt))
+([TXT]({{< baseurl >}}/resources/assn04-1))
 
 
 {{< tdclose >}}
@@ -124,12 +124,12 @@ Pattern matching
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn05))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn05.txt))
+([TXT]({{< baseurl >}}/resources/assn05))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/assn05)) (The ZIP file contains 3 .scm files.)
+([ZIP]({{< baseurl >}}/resources/assn05-1)) (The ZIP file contains 3 .scm files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +145,7 @@ Rule systems
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn06))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn06.txt))
+([TXT]({{< baseurl >}}/resources/assn06-1))
 
 
 {{< tdclose >}}
@@ -166,7 +166,7 @@ AMB in Scheme
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn07))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn07.txt))
+([TXT]({{< baseurl >}}/resources/assn07-1))
 
 
 {{< tdclose >}}
@@ -187,12 +187,12 @@ Scheme conspiracies
 
 ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn08))
 
-([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn08.txt))
+([TXT]({{< baseurl >}}/resources/assn08))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/assn08)) (The ZIP file contains 4 .scm files.)
+([ZIP]({{< baseurl >}}/resources/assn08-1)) (The ZIP file contains 4 .scm files.)
 {{< tdclose >}}
 
 {{< trclose >}}

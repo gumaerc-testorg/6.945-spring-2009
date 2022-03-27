@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 191f94f4-de89-3d17-c704-a2fd6f0d0e54
 resourcetype: Document
 title: 'The Future is Parallel: What''s a Programmer to Do?'
 uid: e0922717-b9c2-6e0b-1582-1e1bbec989bc

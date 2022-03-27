@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 62688fea-0334-c020-39de-28f974924143
 resourcetype: Other
 title: 'Problem Set 4: Supporting Files'
 uid: 59ff71e9-85eb-4d2e-d665-daf863932dda

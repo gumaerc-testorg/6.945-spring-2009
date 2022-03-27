@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 62688fea-0334-c020-39de-28f974924143
 resourcetype: Other
 title: 'Problem Set 3: Supporting Files'
 uid: ecc80139-2186-2ecb-fd89-337cd887e59d

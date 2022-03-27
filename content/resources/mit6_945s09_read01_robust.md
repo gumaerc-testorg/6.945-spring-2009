@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 191f94f4-de89-3d17-c704-a2fd6f0d0e54
 resourcetype: Document
 title: 'Building Robust Systems:  an essay'
 uid: c5e35bcc-02bd-d6b1-4ca0-123d939a02a9
