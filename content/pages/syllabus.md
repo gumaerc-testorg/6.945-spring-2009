@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, objective,
+  readings, assignments, projects, grades, and collaborative work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 1cc53c8a-eee4-f848-8c50-80859b11beb0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

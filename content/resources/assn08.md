@@ -1,9 +1,9 @@
 ---
 content_type: resource
-description: Problem set on control structures, solving the classic "same fringe"
-  problem, and communication among threads.
-file: /media/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/97aff9fd4eab1a34d6bc01d344e7b48f_assn08.txt
-file_type: text/plain
+description: Supporting files for a problem set on control structures, solving the
+  classic "same fringe" problem, and communication among threads.
+file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/3ed699ac3a854f610f7a7a73b495a59f_assn08.zip
+file_type: application/zip
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
@@ -11,6 +11,12 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 62688fea-0334-c020-39de-28f974924143
 resourcetype: Other
-title: Problem Set 8
-uid: 97aff9fd-4eab-1a34-d6bc-01d344e7b48f
+title: 'Problem Set 8: Supporting Files'
+uid: 3ed699ac-3a85-4f61-0f7a-7a73b495a59f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Supporting files for a problem set on control structures, solving the classic "same fringe" problem, and communication among threads.
+
