@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the assigned readings for the course
+  along with additional suggested readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 191f94f4-de89-3d17-c704-a2fd6f0d0e54
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Assigned Readings
@@ -42,7 +51,7 @@ The full text of SICP is [available online](http://mitpress.mit.edu/sicp/full-te
 \[R5RS\]
 {{< tdclose >}}
 {{< tdopen >}}
-Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://schemers.org/Documents/Standards/R5RS/r5rs.pdf))
+Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." ([PDF](http://schemers.org/Documents/Standards/R5RS/r5rs.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +60,7 @@ Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." (![
 \[SOS\]
 {{< tdclose >}}
 {{< tdopen >}}
-Hanson, Chris. "The SOS \[Scheme Object System\] Reference Manual." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-sos.pdf))
+Hanson, Chris. "The SOS \[Scheme Object System\] Reference Manual." ([PDF](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-sos.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,6 +146,6 @@ Bundy, Alan. _The Computer Modelling of Mathematical Reasoning_. Burlington, MA:
 Additional Readings
 -------------------
 
-Sussman, Gerald Jay. Building Robust Systems: An Essay. ([PDF]({{< baseurl >}}/resources/mit6_945s09_read01_robust))
+Sussman, Gerald Jay. Building Robust Systems: An Essay. ({{% resource_link c5e35bcc-02bd-d6b1-4ca0-123d939a02a9 "PDF" %}})
 
-Steele, Guy. The Future is Parallel: What's a Programmer to Do? ([PDF]({{< baseurl >}}/resources/mit6_945s09_read02_parallel)) (Courtesy of Guy L. Steele, Jr. and Sun Microsystems, Inc. Used with permission.)
+Steele, Guy. The Future is Parallel: What's a Programmer to Do? ({{% resource_link e0922717-b9c2-6e0b-1582-1e1bbec989bc "PDF" %}}) (Courtesy of Guy L. Steele, Jr. and Sun Microsystems, Inc. Used with permission.)

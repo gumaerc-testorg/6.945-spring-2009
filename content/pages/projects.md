@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: 'This section provides an instructions and guidelines for the team term
+  project of the course: a substantial piece of software that illustrates some of
+  the ideas we have examined in this subject.'
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 0fbb4653-f3e9-c776-5ea5-8aed63332c14
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Overview

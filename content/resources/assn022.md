@@ -2,8 +2,8 @@
 content_type: resource
 description: Problem set on methods for implementing and exploiting generic sequence
   operations.
-file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/a7f40266dddeb2ec8b09f9bb41b13acc_MIT6_945s09_assn02.pdf
-file_type: application/pdf
+file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/2e8b09a553dc492b24d7ddcd27aa64c5_assn02.txt
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,12 +11,8 @@ ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 62688fea-0334-c020-39de-28f974924143
-resourcetype: Document
+resourcetype: Other
 title: Problem Set 2
-uid: a7f40266-ddde-b2ec-8b09-f9bb41b13acc
-video_files:
-  video_thumbnail_file: null
-video_metadata:
-  youtube_id: null
+uid: 2e8b09a5-53dc-492b-24d7-ddcd27aa64c5
 ---
 Problem set on methods for implementing and exploiting generic sequence operations.

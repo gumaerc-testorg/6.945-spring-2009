@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides an outline of topics covered by the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 970d84cf-d251-6636-aac8-bcfb2c377143
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 List of Topics
