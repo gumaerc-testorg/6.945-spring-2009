@@ -6,6 +6,7 @@ file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/cf0
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 4
 uid: cf0915cf-ce8d-7e39-de04-b9bc1ab851d3
 ---
 Problem set on heavy evaluator hacking, separating syntactic analysis from execution, infix notation, AMB, and nondeterministic programming.
-

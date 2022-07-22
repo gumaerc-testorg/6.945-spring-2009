@@ -7,6 +7,7 @@ file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/9d1
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for a problem set on pattern matching and instantiation, a language of patterns, design of the matcher, using match combinators, the quasiquote mechanism built into Scheme, choice operators, naming, and anonymity.
-

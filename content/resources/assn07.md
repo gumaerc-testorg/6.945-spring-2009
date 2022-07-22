@@ -9,6 +9,7 @@ file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/c9d
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for a problem set on the generate and test technique, backtracking mechanisms, linguistically implicit search, continuations, continuations as non-local exits, continuations for backtracking, continuations and dynamic contexts, dynamic contexts and within-continuation, AMB, depth-first and breadth-first, and less deterministic non-determinism.
-

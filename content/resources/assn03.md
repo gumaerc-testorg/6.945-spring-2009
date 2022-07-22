@@ -7,6 +7,7 @@ file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/ecc
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for a problem set on an evaluator system for an extended version of Scheme, using the generic interpreter, unbound-variable handling, strict and non-strict arguments, and streams. (The ZIP file contains 10 .scm files.)
-

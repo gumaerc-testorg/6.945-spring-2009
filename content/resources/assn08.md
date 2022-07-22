@@ -6,6 +6,7 @@ file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/3ed
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for a problem set on control structures, solving the classic "same fringe" problem, and communication among threads.
-
