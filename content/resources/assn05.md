@@ -4,6 +4,7 @@ description: Supporting files for a problem set on pattern matching and instanti
   a language of patterns, design of the matcher, using match combinators, the quasiquote
   mechanism built into Scheme, choice operators, naming, and anonymity.
 file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/9d14241e91dd4093b3c072c41ea6e1fc_assn05.zip
+file_size: 2768
 file_type: application/zip
 learning_resource_types:
 - Assignments

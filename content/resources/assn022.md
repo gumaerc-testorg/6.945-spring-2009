@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on methods for implementing and exploiting generic sequence
   operations.
 file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/2e8b09a553dc492b24d7ddcd27aa64c5_assn02.txt
+file_size: 23336
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Assigned reading on parallel computation and parallel programming.
 file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/e0922717b9c26e0b15821e1bbec989bc_MIT6_945s09_read02_parallel.pdf
+file_size: 968414
 file_type: application/pdf
 learning_resource_types:
 - Readings
