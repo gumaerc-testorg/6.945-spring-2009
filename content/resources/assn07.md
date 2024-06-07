@@ -6,6 +6,7 @@ description: Supporting files for a problem set on the generate and test techniq
   dynamic contexts and within-continuation, AMB, depth-first and breadth-first, and
   less deterministic non-determinism.
 file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/c9d34f99ed3241486b39216c8f0fe5be_assn07.zip
+file_size: 5454
 file_type: application/zip
 learning_resource_types:
 - Assignments

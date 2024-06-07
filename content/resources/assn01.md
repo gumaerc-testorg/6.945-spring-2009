@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting files for a problem set on a regular expressions, the Scheme
   environment, the grep utility, nesting, optimization, and back-references.
 file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/460c10479d91c6747b790cb3927a68d4_assn01.zip
+file_size: 2350
 file_type: application/zip
 learning_resource_types:
 - Assignments
