@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An essay on building robust systems provided for a reading assignment.
-file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/c5e35bcc02bdd6b14ca0123d939a02a9_MIT6_945s09_read01_robust.pdf
+file: /ol-ocw-studio-app/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/c5e35bcc02bdd6b14ca0123d939a02a9_MIT6_945s09_read01_robust.pdf
 file_size: 228265
 file_type: application/pdf
 learning_resource_types:

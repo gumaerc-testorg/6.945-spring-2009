@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on pattern matching and instantiation, a language of patterns,
   design of the matcher, using match combinators, the quasiquote mechanism built into
   Scheme, choice operators, naming, and anonymity.
-file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/b426caf769f83dc12c1d907c617c074d_assn06.txt
+file: /ol-ocw-studio-app/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/b426caf769f83dc12c1d907c617c074d_assn06.txt
 file_size: 24086
 file_type: text/plain
 learning_resource_types:
