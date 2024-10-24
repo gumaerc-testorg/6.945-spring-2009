@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on heavy evaluator hacking, separating syntactic analysis
   from execution, infix notation, AMB, and nondeterministic programming.
-file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/cf0915cfce8d7e39de04b9bc1ab851d3_assn04.txt
+file: /ol-ocw-studio-app/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/cf0915cfce8d7e39de04b9bc1ab851d3_assn04.txt
 file_size: 5496
 file_type: text/plain
 learning_resource_types:

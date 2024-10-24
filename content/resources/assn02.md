@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting files for a problem set on methods for implementing and exploiting
   generic sequence operations.
-file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/328b2b94270d744d600bca5e1de2625f_assn02.zip
+file: /ol-ocw-studio-app/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/328b2b94270d744d600bca5e1de2625f_assn02.zip
 file_size: 3525
 file_type: application/zip
 learning_resource_types:
