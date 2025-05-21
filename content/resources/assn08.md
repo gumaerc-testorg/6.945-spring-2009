@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting files for a problem set on control structures, solving the
   classic "same fringe" problem, and communication among threads.
-file: /ol-ocw-studio-app/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/3ed699ac3a854f610f7a7a73b495a59f_assn08.zip
+file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/3ed699ac3a854f610f7a7a73b495a59f_assn08.zip
 file_size: 7255
 file_type: application/zip
 learning_resource_types:

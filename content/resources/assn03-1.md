@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on an evaluator system for an extended version of Scheme,
   using the generic interpreter, unbound-variable handling, strict and non-strict
   arguments, and streams.
-file: /ol-ocw-studio-app/courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/e5b016a220f022af624d2ae3793adb0c_assn03.txt
+file: /courses/6-945-adventures-in-advanced-symbolic-programming-spring-2009/e5b016a220f022af624d2ae3793adb0c_assn03.txt
 file_size: 9765
 file_type: text/plain
 learning_resource_types:
