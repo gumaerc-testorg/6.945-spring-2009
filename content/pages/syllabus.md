@@ -29,16 +29,16 @@ Readings
 
 The readings for this subject will be taken from a variety of sources. There will be assigned readings with each problem set. All of the books we need will be on reserve in the library. You will need SICP (Abelson, Sussman, and Sussman; _Structure and Interpretation of Computer Programs_). Material from that book will be referred to quite often. This book is available online, but dead trees are often easier to work with.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011532) Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. [_Structure and Interpretation of Computer Programs_](https://mitpress.mit.edu/9780262011532). 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532.
+{{% resource_link "cee142fb-8e1c-40c2-ac47-a538dd7f8185" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. {{% resource_link "cee142fb-8e1c-40c2-ac47-a538dd7f8185" "_Structure and Interpretation of Computer Programs_" %}}. 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532.
 
-You will also need to consult the [MIT/GNU Scheme documentation](http://www.gnu.org/software/mit-scheme/#Documentation).
+You will also need to consult the {{% resource_link "ef070121-c2a3-47a8-8719-f8efaead4f09" "MIT/GNU Scheme documentation" %}}.
 
 Assignments
 -----------
 
-We will distribute an assignment on Wednesday almost every week. The default arrangement is that the assignment is due on Wednesday the next week. Most of the assignments will require the use of a computer running [MIT/GNU Scheme](http://www.gnu.org/software/mit-scheme/), which runs on most systems, including GNU/Linux, Windows, and Mac OS. This is _free software_. We will provide any other software needed.
+We will distribute an assignment on Wednesday almost every week. The default arrangement is that the assignment is due on Wednesday the next week. Most of the assignments will require the use of a computer running {{% resource_link "16ef04a8-7753-4712-9baa-3abbfa0d9afd" "MIT/GNU Scheme" %}}, which runs on most systems, including GNU/Linux, Windows, and Mac OS. This is _free software_. We will provide any other software needed.
 
-See [this link](http://www.fsf.org/licensing/essays/free-sw.html) to find out what is meant by "free software".
+See {{% resource_link "d1a1185b-b58b-46c6-8141-83afb132b8ad" "this link" %}} to find out what is meant by "free software".
 
 Projects
 --------
