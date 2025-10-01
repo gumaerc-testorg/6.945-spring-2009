@@ -41,7 +41,7 @@ Considerations
 
 Your system should be _free software_, so that it can be shared with, used by, and extended by other students in the future. It should run in MIT/GNU Scheme. It may depend on the Scmutils software, if needed. You may incorporate and build on any software that we have examined in class or on problem sets, or any other Scheme software that you can legally obtain and use. For example, you may use any Scheme code that is in the public domain or is labeled as free software.
 
-See [this link](http://www.fsf.org/licensing/essays/free-sw.html) to find out what is meant by "free software".
+See {{% resource_link "d1a1185b-b58b-46c6-8141-83afb132b8ad" "this link" %}} to find out what is meant by "free software".
 
 Suggestions for Projects
 ------------------------
