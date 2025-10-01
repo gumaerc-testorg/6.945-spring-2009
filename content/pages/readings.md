@@ -25,22 +25,22 @@ READINGS
 \[SICP\]
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011532) Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/9780262011532). 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532.
+{{% resource_link "cee142fb-8e1c-40c2-ac47-a538dd7f8185" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. {{% resource_link "cee142fb-8e1c-40c2-ac47-a538dd7f8185" "*Structure and Interpretation of Computer Programs*" %}}. 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532.
 
-The full text of SICP is [available online](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) through the MIT Press Web site.
+The full text of SICP is {{% resource_link "2acc2e86-2b6d-428c-8267-f3e0d9329d1f" "available online" %}} through the MIT Press Web site.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[R5RS\]
 {{< tdclose >}}{{< tdopen >}}
-Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." ([PDF](http://schemers.org/Documents/Standards/R5RS/r5rs.pdf))
+Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." ({{% resource_link "fabde686-eb15-4077-8528-925d3d25a3e1" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[SOS\]
 {{< tdclose >}}{{< tdopen >}}
-Hanson, Chris. "The SOS \[Scheme Object System\] Reference Manual." ([PDF](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-sos.pdf))
+Hanson, Chris. "The SOS \[Scheme Object System\] Reference Manual." ({{% resource_link "6ce615d8-35bd-4cd3-88f4-65794f0b0459" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[ART\]
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262192880) Springer, George, and Daniel Friedman. [*Scheme and the Art of Programming*](https://mitpress.mit.edu/9780262192880). Cambridge, MA: MIT Press, 1989. ISBN: 9780262192880.
+{{% resource_link "779d1478-fb5f-483f-98eb-a2850db955be" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Springer, George, and Daniel Friedman. {{% resource_link "779d1478-fb5f-483f-98eb-a2850db955be" "*Scheme and the Art of Programming*" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262192880.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[RZ\]
 {{< tdclose >}}{{< tdopen >}}
@@ -48,15 +48,15 @@ Zippel, Richard. *Effective Polynomial Computation*. New York, NY: Springer, 199
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[AOP\]
 {{< tdclose >}}{{< tdopen >}}
-Radul, Alexey, and Gerald Jay Sussman. "[The Art of the Propagator](http://hdl.handle.net/1721.1/44215)." MIT CSAIL Technical Report, January 2009.
+Radul, Alexey, and Gerald Jay Sussman. "{{% resource_link "a7214347-a52d-4438-9cc4-22e3b78fb061" "The Art of the Propagator" %}}." MIT CSAIL Technical Report, January 2009.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[BPS\]
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061575) Forbus, Kenneth, and Johan de Kleer. [*Building Problem Solvers*](https://mitpress.mit.edu/9780262061575). Cambridge, MA: MIT Press, 1993. ISBN: 9780262061575.
+{{% resource_link "3131d33b-91a5-44d5-9fcc-457b2495b4bb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Forbus, Kenneth, and Johan de Kleer. {{% resource_link "3131d33b-91a5-44d5-9fcc-457b2495b4bb" "*Building Problem Solvers*" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262061575.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[CONS\]
 {{< tdclose >}}{{< tdopen >}}
-Steele, Guy. "[The Definition and Implementation of a Computer Programming Language Based on Constraints](http://hdl.handle.net/1721.1/6933)." MIT PhD thesis, 1980.
+Steele, Guy. "{{% resource_link "014b4884-4fdc-45ce-bf57-3995087a8e4b" "The Definition and Implementation of a Computer Programming Language Based on Constraints" %}}." MIT PhD thesis, 1980.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[LOGIC\]
 {{< tdclose >}}{{< tdopen >}}
@@ -64,7 +64,7 @@ Suppes, Patrick. *Introduction to Logic*. Mineola, NY: Dover Publications, 1999.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[AMORD\]
 {{< tdclose >}}{{< tdopen >}}
-de Kleer, Johan, et al. "[AMORD: A Deductive Procedure System](http://hdl.handle.net/1721.1/41983)." MIT Artificial Intelligence Laboratory Working Paper 151, August 1977.
+de Kleer, Johan, et al. "{{% resource_link "7fb46eb3-abbc-42da-97a6-1289b7facecd" "AMORD: A Deductive Procedure System" %}}." MIT Artificial Intelligence Laboratory Working Paper 151, August 1977.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \[CMMR\]
 {{< tdclose >}}{{< tdopen >}}
